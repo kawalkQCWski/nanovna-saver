@@ -7,12 +7,14 @@
 NanoVNASaver
 ============
 
-A multiplatform tool to save Touchstone files from the NanoVNA,
+Tool to save Touchstone files from the NanoVNA -F, Added BW and up to 301 points per scan 
 sweep frequency spans in segments to gain more than 101 data
 points, and generally display and analyze the resulting data.
 
 - Copyright 2019, 2020 Rune B. Broberg
 - Copyright 2020ff NanoVNA-Saver Authors
+- Copyright 2022 Kawalkowski
+
 
 Latest Changes
 --------------
